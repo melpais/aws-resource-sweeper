@@ -1,2 +1,2 @@
 # aws-resource-sweeper
-aws-resource-sweeper
+aws-resource-sweepers
